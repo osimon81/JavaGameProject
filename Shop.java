@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Write a description of class Shop here.
+ * Shop Class.
  *
  * @author (your name)
  * @version (a version number or a date)
